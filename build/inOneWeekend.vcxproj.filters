@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Codes\C++ Projects\Raytracing\src\InOneWeekend\main.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\Codes\C++ Projects\Raytracing\src\InOneWeekend\color.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Codes\C++ Projects\Raytracing\src\InOneWeekend\ray.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Codes\C++ Projects\Raytracing\src\InOneWeekend\vec3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Codes\C++ Projects\Raytracing\src\InOneWeekend\camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Codes\C++ Projects\Raytracing\src\InOneWeekend\hittable.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Codes\C++ Projects\Raytracing\src\InOneWeekend\hittable_list.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Codes\C++ Projects\Raytracing\src\InOneWeekend\sphere.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Codes\C++ Projects\Raytracing\src\InOneWeekend\interval.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Codes\C++ Projects\Raytracing\src\InOneWeekend\rtweekend.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Codes\C++ Projects\Raytracing\src\InOneWeekend\material.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Codes\C++ Projects\Raytracing\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{FE201A01-429C-3BF6-B2EA-4530F6A2E04A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{F0E21631-28AA-32B0-B03D-847D64D0609F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

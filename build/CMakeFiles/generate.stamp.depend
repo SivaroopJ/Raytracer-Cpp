@@ -1,0 +1,20 @@
+# CMake generation dependency list for this directory.
+C:/mingw64/share/cmake-3.26/Modules/CMakeCXXInformation.cmake
+C:/mingw64/share/cmake-3.26/Modules/CMakeCommonLanguageInclude.cmake
+C:/mingw64/share/cmake-3.26/Modules/CMakeGenericSystem.cmake
+C:/mingw64/share/cmake-3.26/Modules/CMakeInitializeConfigs.cmake
+C:/mingw64/share/cmake-3.26/Modules/CMakeLanguageInformation.cmake
+C:/mingw64/share/cmake-3.26/Modules/CMakeRCInformation.cmake
+C:/mingw64/share/cmake-3.26/Modules/CMakeSystemSpecificInformation.cmake
+C:/mingw64/share/cmake-3.26/Modules/CMakeSystemSpecificInitialize.cmake
+C:/mingw64/share/cmake-3.26/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/mingw64/share/cmake-3.26/Modules/Compiler/MSVC-CXX.cmake
+C:/mingw64/share/cmake-3.26/Modules/Compiler/MSVC.cmake
+C:/mingw64/share/cmake-3.26/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/mingw64/share/cmake-3.26/Modules/Platform/Windows-MSVC.cmake
+C:/mingw64/share/cmake-3.26/Modules/Platform/Windows.cmake
+C:/mingw64/share/cmake-3.26/Modules/Platform/WindowsPaths.cmake
+D:/Codes/C++ Projects/Raytracing/CMakeLists.txt
+D:/Codes/C++ Projects/Raytracing/build/CMakeFiles/3.26.4/CMakeCXXCompiler.cmake
+D:/Codes/C++ Projects/Raytracing/build/CMakeFiles/3.26.4/CMakeRCCompiler.cmake
+D:/Codes/C++ Projects/Raytracing/build/CMakeFiles/3.26.4/CMakeSystem.cmake

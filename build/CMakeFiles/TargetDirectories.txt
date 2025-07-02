@@ -1,0 +1,4 @@
+D:/Codes/C++ Projects/Raytracing/build/CMakeFiles/inOneWeekend.dir
+D:/Codes/C++ Projects/Raytracing/build/CMakeFiles/theNextWeek.dir
+D:/Codes/C++ Projects/Raytracing/build/CMakeFiles/ALL_BUILD.dir
+D:/Codes/C++ Projects/Raytracing/build/CMakeFiles/ZERO_CHECK.dir

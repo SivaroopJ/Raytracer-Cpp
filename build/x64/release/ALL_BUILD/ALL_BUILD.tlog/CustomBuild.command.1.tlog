@@ -1,0 +1,10 @@
+^D:\CODES\C++ PROJECTS\RAYTRACING\CMAKELISTS.TXT
+setlocal
+C:\mingw64\bin\cmake.exe "-SD:/Codes/C++ Projects/Raytracing" "-BD:/Codes/C++ Projects/Raytracing/build" --check-stamp-file "D:/Codes/C++ Projects/Raytracing/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
